@@ -1,16 +1,21 @@
-### Hi there 👋
+John Doe - DevOps Engineer
 
-<!--
-**mrtyildiz/mrtyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm John, a passionate DevOps Engineer with extensive experience in automating, configuring, and optimizing cloud and containerized environments. Skilled in Python and Go, I specialize in deploying scalable and efficient solutions using AWS, Docker, and Kubernetes.
 
-Here are some ideas to get you started:
+🔧 Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, Go
+Cloud: AWS (EC2, S3, RDS, Lambda)
+Containerization: Docker, Kubernetes
+CI/CD: Jenkins, GitHub Actions
+Monitoring: Prometheus, Grafana
+Infrastructure as Code: Terraform, Ansible
+📦 Projects:
+
+Cloud Infrastructure Automation: Automated cloud infrastructure provisioning and management on AWS using Terraform and Ansible.
+Containerized Microservices Deployment: Developed and deployed microservices architecture using Docker and Kubernetes, achieving high availability and scalability.
+Continuous Integration and Deployment Pipeline: Implemented CI/CD pipelines with Jenkins and GitHub Actions to automate testing and deployment processes.
+🤝 Let's Connect:
+
+LinkedIn: linkedin.com/in/johndoe
+Email: john.doe@example.com
