@@ -17,4 +17,4 @@
 - **PKI Projesi:** I contributed to the development of a project aimed at managing PKI processes.
 ## 🤝 Let's Connect:
 - **LinkedIn:** [linkedin](https://www.linkedin.com/in/murat-y%C4%B1ld%C4%B1z-3a258513a/)
-- **Email:** [muratasnb@hotmail.com](mailto:muratasnb@hotmail.com)
+- **Email:** [Mail](mailto:muratasnb@hotmail.com)
