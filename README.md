@@ -16,5 +16,5 @@
 - **File Encryption/Decryption Projesi:** I contributed to a project that used the Procenne HSM device to perform column-based encryption and decryption processes specific to PostgreSQL in compliance with PKCS11 standards.
 - **PKI Projesi:** I contributed to the development of a project aimed at managing PKI processes.
 ## 🤝 Let's Connect:
-- **LinkedIn:** [https://www.linkedin.com/in/murat-y%C4%B1ld%C4%B1z-3a258513a/](#)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/murat-y%C4%B1ld%C4%B1z-3a258513a/)
 - **Email:** [muratasnb@hotmail.com](mailto:muratasnb@hotmail.com)
